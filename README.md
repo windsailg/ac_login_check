@@ -54,7 +54,3 @@ Express is running on http://localhost:3000
 mongoDB connected
 
 伺服器已經成功連線並運作於 http://localhost:3000
-
-
-
-
